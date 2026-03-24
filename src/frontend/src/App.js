@@ -5,7 +5,7 @@ import fcose from "cytoscape-fcose";
 
 cytoscape.use(fcose);
 
-const API = "https://graph-based-data-modeling-and-query-y08z.onrender.com/";
+const API = "https://graph-based-data-modeling-and-query-06u2.onrender.com";
 
 /* ─── Type colors ────────────────────────────────────────────────────────── */
 const TYPE_META = {
